@@ -30,7 +30,8 @@ Welcome to the 100 Projects repository! This collection showcases 100 different 
 22. [Fade out](https://web-devs-projects.netlify.app)
 23. [Simple Calculator](https://web-devs-projects.netlify.app)
 24. [Simple Login Page](https://web-devs-projects.netlify.app)
-
+24. [Simple Login Page](https://web-devs-projects.netlify.app)
+25. [Cricket Scorer App](https://web-devs-projects.netlify.app)
 ## Getting Started
 
 To view any of the projects, simply click on the links provided in the table of contents above. Each link will open the corresponding project in a new tab.
