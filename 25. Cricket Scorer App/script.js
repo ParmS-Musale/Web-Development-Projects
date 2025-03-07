@@ -26,7 +26,7 @@ function addBall(type) {
         currentScore += runs;
       } else {
         wickets++;
-        // Only end over if wickets reach 10 after adding a wicket
+        // Only end over if wickets reach 10 after adding a wickets
         if (wickets === 10) {
           endOver();
           return; // Exit the function to prevent further processing
